@@ -1,4 +1,4 @@
 # SocialMediaApp-MERN
-A web based application which is a clone of Instagram app. It has been implemented using the MERN stack.
+A web based clone application of Instagram app. It is been implemented using the MERN stack. Project currently in progress. 
 
 Author - Mariam Shahzad 
